@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Serialport"
-include ':app'
+include ':hsznlm'
